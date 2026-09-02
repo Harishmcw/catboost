@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - test_woa_ci
 
   pull_request:
 
